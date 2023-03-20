@@ -7,5 +7,3 @@ http://user.scalecdn.co:8080/live/Ron/Ron/546783.ts
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AD:7A:B6&stream=33270&extension=m3u8
 #EXTINF:-1 tvg-id="TFC" tvg-name="TFC" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Filipino",TFC International
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
-#EXTINF: -1 tvg-id="CNNPhilippines" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Filipino",CNN Philippines
-https://m3u-editor.com/serve/tchtviptvplaylist/767388350
