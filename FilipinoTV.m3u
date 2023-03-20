@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="4296" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino",GMA Pinoy TV
 http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
 #EXTINF:-1 tvg-id="" tvg-name="GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Filipino",GMA Life TV
-https://bit.ly/3T4IVUx
+http://user.scalecdn.co:8080/live/Ron/Ron/546783.ts
 #EXTINF:-1 tvg-id="" tvg-name="GMA News TV" tvg-logo="https://www.kindpng.com/picc/m/764-7649123_gma-news-tv-logo-png-download-tv-news.png" group-title="Filipino",GMA News TV
-https://bit.ly/3SCO3PX
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AD:7A:B6&stream=33270&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TFC International" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Filipino",TFC International
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF: -1 tvg-id="CNNPhilippines" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Filipino",CNN Philippines
