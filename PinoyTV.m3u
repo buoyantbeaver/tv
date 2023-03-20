@@ -1,11 +1,11 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/65bcd790ce2300b71e32f0dbe2bbe734e579499a/sites/clickthecity.com/clickthecity.com_ph.channels.xml"
-#EXTINF:-1 tvg-id="GMAPinoyTV" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino",GMA Pinoy TV
+#EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
+#EXTINF:-1 tvg-id="GMA Pinoy TV" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino",GMA Pinoy TV
 http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Filipino",GMA Life TV
-https://bit.ly/3T4IVUx
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA News TV" tvg-logo="https://www.kindpng.com/picc/m/764-7649123_gma-news-tv-logo-png-download-tv-news.png" group-title="Filipino",GMA News TV
-https://bit.ly/3SCO3PX
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC International" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Filipino",TFC International
+#EXTINF:-1 tvg-id="GMA Life TV" tvg-name="GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Filipino",GMA Life TV
+http://user.scalecdn.co:8080/live/Ron/Ron/546783.ts
+#EXTINF:-1 tvg-id="GMA News TV International" tvg-name="GMA News TV" tvg-logo="https://www.kindpng.com/picc/m/764-7649123_gma-news-tv-logo-png-download-tv-news.png" group-title="Filipino",GMA News TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AD:7A:B6&stream=33270&extension=m3u8
+#EXTINF:-1 tvg-id="TFC" tvg-name="TFC" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Filipino",TFC International
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF: -1 tvg-id="CNNPhilippines" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Filipino",CNN Philippines
 https://m3u-editor.com/serve/tchtviptvplaylist/767388350
