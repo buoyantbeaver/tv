@@ -1,3 +1,3 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml"
-#EXTINF:-1 tvg-id="GMAPinoyTVAsiaPacific.ph" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino",GMA Pinoy TV
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_PH.xml"
+#EXTINF:-1 tvg-id="4296" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino",GMA Pinoy TV
 http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
