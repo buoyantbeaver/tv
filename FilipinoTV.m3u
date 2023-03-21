@@ -8,4 +8,4 @@ http://sverigeplay.tv/play/live.php?mac=00:1A:79:AD:7A:B6&stream=33270&extension
 #EXTINF:-1 tvg-id="12540" tvg-name="TFC International" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Filipino",TFC International
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF: -1 tvg-id="61387" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Filipino",CNN Philippines
-https://m3u-editor.com/serve/tchtviptvplaylist/767388350
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
