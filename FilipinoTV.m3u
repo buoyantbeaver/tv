@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_US.xml,https://epg.pw/xmltv/epg_PH.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&channel_id=4303,https://epg.pw/xmltv/epg_SG.xml"
-#EXTINF:-1 tvg-id="51666" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino",GMA Pinoy TV
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=50108,https://epg.pw/xmltv/epg_PH.xml,https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&channel_id=4303,https://epg.pw/xmltv/epg_SG.xml"
+#EXTINF:-1 tvg-id="50108" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino",GMA Pinoy TV
 http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
 #EXTINF:-1 tvg-id="50940" tvg-name="GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Filipino",GMA Life TV
 http://user.scalecdn.co:8080/live/Ron/Ron/546783.ts
