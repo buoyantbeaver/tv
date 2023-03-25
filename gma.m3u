@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5mew6aw68mey39p"
-#EXTINF:-1 tvg-id="50108" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino" tvg-shift="-4",GMA Pinoy TV
+#EXTINF:-1 tvg-id="GMAPinoyTV(English).ca" tvg-name="GMA Pinoy TV" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Filipino" tvg-shift="-4",GMA Pinoy TV
 http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
-#EXTINF:-1 tvg-id="50940" tvg-name="GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Filipino" tvg-shift="-4",GMA Life TV
+#EXTINF:-1 tvg-id="GMALifeTV(English).ca" tvg-name="GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Gma_life_tv.png" group-title="Filipino" tvg-shift="-4",GMA Life TV
 http://user.scalecdn.co:8080/live/Ron/Ron/546783.ts
-#EXTINF:-1 tvg-id="4303" tvg-name="GMA News TV" tvg-logo="https://i.imgur.com/IigxZnb.png" group-title="Filipino" tvg-shift="-4",GMA News TV
+#EXTINF:-1 tvg-id="GMANews(English).ca" tvg-name="GMA News TV" tvg-logo="https://i.imgur.com/IigxZnb.png" group-title="Filipino" tvg-shift="-4",GMA News TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AD:7A:B6&stream=33270&extension=m3u8
