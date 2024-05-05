@@ -4,8 +4,7 @@
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="ca#69039708/cbc-edmonton-hdtv" tvg-logo="https://i.imgur.com/nTaxwEt.png" group-title="News",CBC Edmonton
-https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 
 #EXTINF:-1 tvg-id="ca#69043588/citytv-edmonton" tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="News",CityNews Edmonton
-https://dai.google.com/linear/hls/pa/event/W4j7D5LJSJuESWEpe0AP4A/stream/4de6574c-0a2a-4d68-9b4c-3c4996628676:DLS/master.m3u8
-# https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
