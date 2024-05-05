@@ -1,7 +1,10 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+#EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-canada.xml.gz"
 
-#EXTINF:0 tvg-id="Global.Edmonton.(CITV).ca" tvg-country="CA" tvg-logo="https://i.imgur.com/WjBya3b.jpg" group-title="News",Global News Edmonton
+#EXTINF:0 tvg-id="GlobalNewsEdmonton.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/WjBya3b.jpg" group-title="News",Global News Edmonton
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="CBXTDT.ca" tvg-logo="https://i.imgur.com/nTaxwEt.png" group-title="News",CBC Edmonton
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="News",CityNews Edmonton
+https://citynewsregional-i.akamaihd.net/hls/live/553714/CityNews-Edmonton/master.m3u8
